@@ -24,9 +24,9 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.1</version>
                 <configuration>
-                    <source>7</source>
-                    <target>7</target>
-                    <compilerVersion>7</compilerVersion>
+                    <source>6</source>
+                    <target>6</target>
+                    <compilerVersion>6</compilerVersion>
                     <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
